@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @c-cathely
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+Hello!
+I am a French illustrator/animator/graphic designer. I specialize in both static and animated visual communication.
 
-<!---
-c-cathely/c-cathely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I can create for you:
+- Communication strategies
+- Static/animated visuals
+- Brand guidelines
+- Logos, logo animations
+- Copywriting and creative writing
+
+please visit my website for further informations!
